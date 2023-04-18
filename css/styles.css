@@ -37,7 +37,7 @@ body {
 }
 
 .test__container {
-    width: 90%;
+    width: 90.1%;
     height: 80%;
     background-color: orange;
     border: 0.125rem solid black;
