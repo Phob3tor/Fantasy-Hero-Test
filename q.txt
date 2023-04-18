@@ -1,0 +1,48 @@
+Rassen:
+0	Engel Weiblich	-	3 1 - 4   - 4   - 3   - 4   - 
+1	Engel Männlich	-	4   - 3   - 3 1 - 2   - 2 2 - 
+2	Dämon Weiblich	-	1   - 3   - 4   - 1 3 - 3   - 
+3	Dämon Männlich	- 	2   - 2 3 - 3 1 - 1 4 - 1 4 - 
+4	Zwerg Weiblich	-	2 4 - 2 2 - 3 2 - 3 1 - 1 3 - 
+5	Zwerg Männlich	- 	1 4 - 4 3 - 2   - 3 4 - 4   - 
+6	Elf   Weiblich	-	3 3 - 3 4 - 2 4 - 4   - 4   - 
+7	Elf   Männlich	-	4   - 4   - 3 3 - 3 3 - 3   - 
+8	Mensc Weiblich	-	1 4 - 2 3 - 2 4 - 2   - 2 2 - 
+9	Mensc Männlich	-	3   - 1 4 - 2 4 - 4   - 3 1 - 
+10	Meerm Weiblich	-	4   - 4   - 4   - 4   - 3   - 
+11	Meerm Männlich	-	2 1 - 1 4 - 3   - 3   - 2   - 
+12	Ork   Weiblich	-	1 2 - 2 2 - 2   - 2 4 - 3 2 - 
+13	Ork   Männlich	-	1 2 - 3 1 - 1 1 - 2 3 - 1 4 - 
+14	Rept  Weiblich	-	3   - 4   - 2   - 1 4 - 2   - 
+15	Rept  Männlich	-	4 2 - 1 1 - 2 1 - 2 2 - 1 4 - 
+16	Vamp  Weiblich	-	4 2 - 2 2 - 1 4 - 1 2 - 1 3 - 
+17	Vamp  Männlich	-	3   - 1 1 - 1 1 - 1 4 - 4 1 - 
+18	Werew Weiblich	-	2 3 - 3   - 3   - 1   - 1 4 - 
+19	Werew Männlich	-	3 1 - 4 1 - 4   - 2 1 - 2 3 - 
+
+Klassen: 
+0	Assassine 	- 	
+1	Kreuzritter	-	
+2	Druide		-	
+3	Waldläufer	-	
+4	Illusionist	-	
+5	Magier		-	
+6	Nekromant	-	
+7	Scharfschütze	-	
+8	Krieger		-	
+9	Hexer		-	
+
+Partner:
+0	Dämonenbarbar	-	
+1	Drachenechse	-	
+2	Zwergenschmied	-	
+3	Elfendieb	-	
+4	Fee		-	
+5	Feuerkobold	-	
+6	Geist		-	
+7	Schattenwolf	-	
+8	Schneekrähe	-	
+9	Sukkubus	-	
+10	Vampirpriester	-	
+11	Kriegshirsch	-	
+
