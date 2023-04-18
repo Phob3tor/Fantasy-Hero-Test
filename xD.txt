@@ -1,3 +1,0 @@
-function accum(s) {
-	return s.split("").map((elem, ind) => elem.toUpperCase() + elem.repeat(ind).toLowerCase() + "-").join("").slice(0, -1);
-}
