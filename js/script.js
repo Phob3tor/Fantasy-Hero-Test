@@ -3,16 +3,16 @@
 
 
 const classes = [
-    ["Assassine", 0, "../img/classes/assassin.png"],
-    ["Kreuzritter", 0, "../img/classes/crusader.png"],
-    ["Druide", 0, "../img/classes/druid.png"],
-    ["Waldläufer", 0, "../img/classes/hunter.png"],
-    ["Illusionist", 0, "../img/classes/illusionist.png"],
-    ["Magier", 0, "../img/classes/mage.png"],
-    ["Nekromant", 0, "../img/classes/necromancer.png"],
-    ["Scharfschütze", 0, "../img/classes/sharpshooter.png"],
-    ["Krieger", 0, "../img/classes/warrior.png"],
-    ["Hexer", 0, "../img/classes/witcher.png"] 
+    ["Assassine", 0, "./img/classes/assassin.png"],
+    ["Kreuzritter", 0, "./img/classes/crusader.png"],
+    ["Druide", 0, "./img/classes/druid.png"],
+    ["Waldläufer", 0, "./img/classes/hunter.png"],
+    ["Illusionist", 0, "./img/classes/illusionist.png"],
+    ["Magier", 0, "./img/classes/mage.png"],
+    ["Nekromant", 0, "./img/classes/necromancer.png"],
+    ["Scharfschütze", 0, "./img/classes/sharpshooter.png"],
+    ["Krieger", 0, "./img/classes/warrior.png"],
+    ["Hexer", 0, "./img/classes/witcher.png"] 
 ]
 
 const classHelper = [
@@ -20,26 +20,26 @@ const classHelper = [
 ];
 
 const races = [
-    ["Weiblicher Engel", 0, "../img/races/angel_female.png"],
-    ["Männlicher Engel", 0, "../img/races/angel_male.png"],
-    ["Weiblicher Dämon", 0, "../img/races/demon_female.png"],
-    ["Männlicher Dämon", 0, "../img/races/demon_male.png"],
-    ["Weiblicher Zwerg", 0, "../img/races/dwarf_female.png"],
-    ["Männlicher Zwerg", 0, "../img/races/dwarf_male.png"],
-    ["Weiblicher Elf", 0, "../img/races/elf_female.png"],
-    ["Männlicher Elf", 0, "../img/races/elf_male.png"],
-    ["Weiblicher Mensch", 0, "../img/races/human_female.png"],
-    ["Männlicher Mensch", 0, "../img/races/human_male.png"],
-    ["Weiblicher Meermensch", 0, "../img/races/mermaid_female.png"],
-    ["Männlicher Meermensch", 0, "../img/races/mermaid_male.png"],
-    ["Weiblicher Ork", 0, "../img/races/orc_female.png"],
-    ["Männlicher Ork", 0, "../img/races/orc_male.png"],
-    ["Weiblicher Reptiloid", 0, "../img/races/reptiloid_female.png"], 
-    ["Männlicher Reptiloid", 0, "../img/races/reptiloid_male.png"],
-    ["Weiblicher Vampir", 0, "../img/races/vampire_female.png"], 
-    ["Männlicher Vampir", 0, "../img/races/vampire_male.png"],
-    ["Weiblicher Werwolf", 0, "../img/races/werewolf_female.png"],
-    ["Männlicher Werwolf", 0, "../img/races/werewolf_male.png"]
+    ["Weiblicher Engel", 0, "./img/races/angel_female.png"],
+    ["Männlicher Engel", 0, "./img/races/angel_male.png"],
+    ["Weiblicher Dämon", 0, "./img/races/demon_female.png"],
+    ["Männlicher Dämon", 0, "./img/races/demon_male.png"],
+    ["Weiblicher Zwerg", 0, "./img/races/dwarf_female.png"],
+    ["Männlicher Zwerg", 0, "./img/races/dwarf_male.png"],
+    ["Weiblicher Elf", 0, "./img/races/elf_female.png"],
+    ["Männlicher Elf", 0, "./img/races/elf_male.png"],
+    ["Weiblicher Mensch", 0, "./img/races/human_female.png"],
+    ["Männlicher Mensch", 0, "./img/races/human_male.png"],
+    ["Weiblicher Meermensch", 0, "./img/races/mermaid_female.png"],
+    ["Männlicher Meermensch", 0, "./img/races/mermaid_male.png"],
+    ["Weiblicher Ork", 0, "./img/races/orc_female.png"],
+    ["Männlicher Ork", 0, "./img/races/orc_male.png"],
+    ["Weiblicher Reptiloid", 0, "./img/races/reptiloid_female.png"], 
+    ["Männlicher Reptiloid", 0, "./img/races/reptiloid_male.png"],
+    ["Weiblicher Vampir", 0, "./img/races/vampire_female.png"], 
+    ["Männlicher Vampir", 0, "./img/races/vampire_male.png"],
+    ["Weiblicher Werwolf", 0, "./img/races/werewolf_female.png"],
+    ["Männlicher Werwolf", 0, "./img/races/werewolf_male.png"]
 ]
 
 const raceHelper = [
@@ -47,18 +47,18 @@ const raceHelper = [
 ];
 
 const partners = [
-    ["Andral, der Dämonenbarbar", 0, "../img/partners/demonbarbarian.png"],
-    ["Crush, die Drachenechse", 0, "../img/partners/dragonlizard.png"],
-    ["Harlon, der Zwergenschmied", 0, "../img/partners/dwarfensmith.png"],
-    ["Sintras, die Elfendiebin", 0, "../img/partners/elventhief.png"],
-    ["Almurie, die Fee", 0, "../img/partners/fairy.png"],
-    ["Karv, der Feuerkobold", 0, "../img/partners/firecobold.png"],
-    ["Uldrin, der Rachegeist", 0, "../img/partners/ghost.png"],
-    ["Omega, der Schattenwolf", 0, "../img/partners/shadowwolf.png"],
-    ["Ricecake, die Schneekrähe", 0, "../img/partners/snowcrow.png"],
-    ["Emdrielle, der Sukkubus", 0, "../img/partners/succubus.png"],
-    ["Isani, die Vampirpriesterin", 0, "../img/partners/vampirepriest.png"],
-    ["Comet, der Kampfhirsch", 0, "../img/partners/wardeer.png"]
+    ["Andral, der Dämonenbarbar", 0, "./img/partners/demonbarbarian.png"],
+    ["Crush, die Drachenechse", 0, "./img/partners/dragonlizard.png"],
+    ["Harlon, der Zwergenschmied", 0, "./img/partners/dwarfensmith.png"],
+    ["Sintras, die Elfendiebin", 0, "./img/partners/elventhief.png"],
+    ["Almurie, die Fee", 0, "./img/partners/fairy.png"],
+    ["Karv, der Feuerkobold", 0, "./img/partners/firecobold.png"],
+    ["Uldrin, der Rachegeist", 0, "./img/partners/ghost.png"],
+    ["Omega, der Schattenwolf", 0, "./img/partners/shadowwolf.png"],
+    ["Ricecake, die Schneekrähe", 0, "./img/partners/snowcrow.png"],
+    ["Emdrielle, der Sukkubus", 0, "./img/partners/succubus.png"],
+    ["Isani, die Vampirpriesterin", 0, "./img/partners/vampirepriest.png"],
+    ["Comet, der Kampfhirsch", 0, "./img/partners/wardeer.png"]
 ]
 
 const partnerHelper = [
