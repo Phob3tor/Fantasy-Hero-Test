@@ -312,14 +312,14 @@ answerPArr.forEach((btn) => {
         }
 
 
-        console.log(raceHelper)
+        
 
         index++;
 
         if (index === 21) {
             let highestRaceI = raceHelper.indexOf([...raceHelper].sort((a,b) => b - a)[0]);
-            let highestClassI = raceHelper.indexOf([...classHelper].sort((a,b) => b - a)[0]);
-            let highestPartnerI = raceHelper.indexOf([...partnerHelper].sort((a,b) => b - a)[0]);
+            let highestClassI = classHelper.indexOf([...classHelper].sort((a,b) => b - a)[0]);
+            let highestPartnerI = partnerHelper.indexOf([...partnerHelper].sort((a,b) => b - a)[0]);
 
             images[0].src = races[highestRaceI][2];
             images[1].src = classes[highestClassI][2];
